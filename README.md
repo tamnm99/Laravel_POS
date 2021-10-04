@@ -1,4 +1,4 @@
-                                                        FUNCTION OF PROJECT: 
+                          FUNCTION OF PROJECT: 
 - Login with Google recaptcha
 - Register, Forgot password, Reset password: Google recaptcha, send email.
 - Update profile user, Change password, Delete user, View user, Assgin role & permissions for user.
@@ -10,7 +10,7 @@
 - Other: Laravel Yajra Datatable, Export table contents to CSV, PDF or Print (chosen columns), Sweet Alert 2, Toastr.
 
 
-                                                          INSTALL, SETUP, CONFIG, RUN 
+                           INSTALL, SETUP, CONFIG, RUN 
 - Step 1 - Clone project: https://github.com/tamnm99/Laravel_POS.git
 - Step 2 - Set vhost for using google recaptcha, vhost for this project must be: pos_team3.example.com
   + 2.1, in C:\xampp\apache\conf\extra\httpd-vhosts.conf, config like example below
@@ -35,8 +35,9 @@
 - Step 8 - Link file storage: php artisan storage:link.
 - Step 9 - Now, login system withusername: admin@sample.com, password: admin-password.
 
-                                                        IMAGE DEMO OF PROJECT
+                            IMAGE DEMO OF PROJECT
 ![image](https://user-images.githubusercontent.com/63133151/135856587-cd8a6e4d-917b-4882-b8f9-93944884918e.png)
+![image](https://user-images.githubusercontent.com/63133151/135859666-2d274c8f-771c-48eb-b953-12fda565a8eb.png)
 ![image](https://user-images.githubusercontent.com/63133151/135856606-e02f5fa8-be18-4b7a-98a1-137d51762cce.png)
 ![image](https://user-images.githubusercontent.com/63133151/135856625-2c799528-d290-4997-8ed3-2a791b09565c.png)
 ![image](https://user-images.githubusercontent.com/63133151/135856637-951a2c98-0772-4344-82fa-baf729e5450b.png)
